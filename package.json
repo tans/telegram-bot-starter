@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "@vercel/node": "^3.2.1",
+    "typescript": "^5.5.2"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "grammy": "^1.25.1",
+    "socks-proxy-agent": "^8.0.3"
+  }
+}
